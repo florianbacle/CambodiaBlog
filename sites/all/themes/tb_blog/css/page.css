@@ -39,7 +39,8 @@
 * Header
 */
 #header-wrapper {
-  background: url(../images/dot-g.gif) repeat-x left bottom #fff;
+
+ /** background: url(../images/dot-g.gif) repeat-x left bottom #fff; */
   border-top: 5px solid #222;
   margin-bottom: 40px;
   position: relative;
@@ -51,6 +52,7 @@ body.tb-sf-navbar #header-wrapper {
 }
 
 #header-wrapper .container {
+
 }
 
 #header {
@@ -58,6 +60,8 @@ body.tb-sf-navbar #header-wrapper {
   height: 110px;
   padding: 0;
   position: relative;
+  background:url('../images/header.png')repeat-x left bottom #fff; !important;
+  background-position: 0;
 }
 
 /* Logo & Site name*/

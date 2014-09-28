@@ -13,13 +13,13 @@
 }
 
 .sf-menu.sf-style-blog a {
-  border-bottom: 1px solid #eee;
-  color: #333;
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 1.2em;
-  padding: 13px 10px;
-  text-decoration: none;
-  text-transform: uppercase;
+    border-bottom: 1px solid #eee;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    padding: 13px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 /* "Have child" Item */
